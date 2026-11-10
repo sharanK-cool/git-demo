@@ -3,8 +3,12 @@ reset command demonstration:
 
 1.commit 1
 
-2. commit 2
+2. commit 2  
 
 3. commit 3 - modified and get to commit 5
 
 4. commit 4 - modified and staged on commmit 5
+
+5. commit 5 - <- modified commits 3,4, already done after modifying the unsaved changes done by git reset command
+
+6. commit 6 
