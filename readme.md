@@ -14,3 +14,5 @@ reset command demonstration:
 
 
 8. commit 9- <-  modified commits 6,7, already done after modifying the unsaved changes done by git reset --soft command
+
+9. commit 10
