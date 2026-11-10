@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 
+reset command demonstration:
 
-#change brought to the readme file by new-bug branch....
-=======
-This is a change from main
->>>>>>> main
+1.commit 1
+
