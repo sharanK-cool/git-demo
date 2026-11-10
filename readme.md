@@ -9,10 +9,12 @@ reset command demonstration:
 
 4. commit 4 - modified and staged on commmit 5
 
-5. commit 5 - <- modified commits 3,4, already done after modifying the unsaved changes done by git reset command
+5. commit 5 <- modified commits 3,4, already done after modifying the unsaved changes done by git reset command
 
 
 
-8. commit 9- <-  modified commits 6,7, already done after modifying the unsaved changes done by git reset --soft command
+8. commit 9 <-  modified commits 6,7, already done after modifying the unsaved changes done by git reset --soft command
 
-9. commit 10
+9. commit 10   <- deleted commits 11,12 , came back to 10 
+
+10 commit 13 <- created a new commit 
